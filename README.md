@@ -15,7 +15,7 @@ TechSpec AI enables telecom engineers and researchers to obtain precise, context
 
 
 Run the Streamlit App:
-> streamlit run app.py
+> streamlit run main.py
 
 **Interact with the Assistant:**
 Enter a technical question in the provided input field.
