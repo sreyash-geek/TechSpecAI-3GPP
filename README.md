@@ -1,4 +1,4 @@
-**TechSpec AI: An Interactive 3GPP Technical Assistant**
+**TechSpec AI: An Interactive 3GPP Technical Assistant.**
 
 **Overview:**
 TechSpec AI is an AI-powered Q&A system designed to simplify the daunting task of sifting through extensive 3GPP technical specifications.
